@@ -14,8 +14,10 @@ This analysis aimed to utilize tourism travel data to better understand current 
 ### Files:
 *“tourism_dataset_5000.csv”*
 * contains the data used for the analysis
-*“Cultural_Tourism_Data_Analysis_Paper.pdf”* 
+
+*“Cultural_Tourism_Data_Analysis_Paper.pdf”*
 * Contains the findings of the analysis in a paper
+
 *“Cultural_Tourism_Data_Analysis.ipynb”*
 * Contains the code used for the analysis
 
